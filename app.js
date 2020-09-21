@@ -1,4 +1,4 @@
-console.log("1");
+console.log("2");
 const canvas = document.getElementById('jsCanvas');
 const ctx = canvas.getContext('2d');
 const colors = document.getElementsByClassName('jsColor');
