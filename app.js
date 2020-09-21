@@ -1,3 +1,4 @@
+console.log("연동완료");
 const canvas = document.getElementById('jsCanvas');
 const ctx = canvas.getContext('2d');
 const colors = document.getElementsByClassName('jsColor');
